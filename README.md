@@ -2,7 +2,10 @@
 
 ## Descripción
 
-El presente repositorio reocge los resultados de las medidas, pruebas y datos
+![6gontime-logo](img/6GONTIME-logo-proyecto.png)
+![6gontime-patrocinios](img/6GONTIME-logos-patrocinio.png)
+
+El presente repositorio recoge los resultados de las medidas, pruebas y datos
 técnicos sobre el proyecto 6G ON TIME
 
 ### Título proyecto
