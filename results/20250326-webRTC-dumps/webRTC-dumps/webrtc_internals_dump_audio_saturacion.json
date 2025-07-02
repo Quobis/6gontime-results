@@ -1,0 +1,2449 @@
+{
+ "getUserMedia": [
+  {
+   "audio": "",
+   "origin": "https://collaborator.6gontime.quobislab.com",
+   "pid": 60663,
+   "request_id": 0,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "timestamp": 1742978009329.696,
+   "video": ""
+  },
+  {
+   "audio": "",
+   "origin": "https://collaborator.6gontime.quobislab.com",
+   "pid": 60663,
+   "request_id": 1,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "timestamp": 1742978019448.365,
+   "video": ""
+  },
+  {
+   "audio_track_info": "id:22714d7f-da2a-4290-b8c6-d77afc65215f label:Predeterminado",
+   "pid": 60663,
+   "request_id": 1,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "stream_id": "2d778b6a-4275-4e7d-a7aa-648b5a14b79b",
+   "timestamp": 1742978039363.372,
+   "video_track_info": "id:fffbd0c0-0838-4d52-9209-e617e57a12ea label:HP 5MP Camera (0408:546a)"
+  },
+  {
+   "origin": "https://collaborator.6gontime.quobislab.com",
+   "pid": 60663,
+   "request_id": 2,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "timestamp": 1742978561754.339,
+   "video": "{width: {ideal: 320}, height: {ideal: 240}, frameRate: {ideal: 30}, deviceId: {ideal: [\"c4f4cce949bfa73ca5237c8cab09fa3d24897117c71b3cb856beb6c3b5cf97f5\"]}}"
+  },
+  {
+   "pid": 60663,
+   "request_id": 2,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "stream_id": "d5f61e6c-a0e8-4387-b752-2c909bd547ff",
+   "timestamp": 1742978562067.419,
+   "video_track_info": "id:328d0063-30c7-4062-ad78-c4dca86d474f label:HP 5MP Camera (0408:546a)"
+  },
+  {
+   "audio": "{echoCancellation: {ideal: true}, autoGainControl: {ideal: true}, noiseSuppression: {ideal: true}}",
+   "origin": "https://collaborator.6gontime.quobislab.com",
+   "pid": 60663,
+   "request_id": 3,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "timestamp": 1742978562112.994
+  },
+  {
+   "audio_track_info": "id:36d3a558-314d-4e2b-a609-fd8a9d349333 label:Predeterminado",
+   "pid": 60663,
+   "request_id": 3,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "stream_id": "28f8b572-870d-4b02-8dbe-effa190860f0",
+   "timestamp": 1742978562153.645
+  },
+  {
+   "origin": "https://collaborator.6gontime.quobislab.com",
+   "pid": 60663,
+   "request_id": 4,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "timestamp": 1742978916955.277,
+   "video": "{width: {ideal: 320}, height: {ideal: 240}, frameRate: {ideal: 30}, deviceId: {ideal: [\"c4f4cce949bfa73ca5237c8cab09fa3d24897117c71b3cb856beb6c3b5cf97f5\"]}}"
+  },
+  {
+   "pid": 60663,
+   "request_id": 4,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "stream_id": "bd49983a-3a00-4086-9d58-c4a9073d3648",
+   "timestamp": 1742978917237.384,
+   "video_track_info": "id:24f3b1fe-2461-4a5c-888d-3097bab77357 label:HP 5MP Camera (0408:546a)"
+  },
+  {
+   "audio": "{echoCancellation: {ideal: true}, autoGainControl: {ideal: true}, noiseSuppression: {ideal: true}}",
+   "origin": "https://collaborator.6gontime.quobislab.com",
+   "pid": 60663,
+   "request_id": 5,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "timestamp": 1742978917268.833
+  },
+  {
+   "audio_track_info": "id:40a94815-1d18-4e96-8b29-a19ac626e862 label:Predeterminado",
+   "pid": 60663,
+   "request_id": 5,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "stream_id": "276491a2-b5d9-4c1b-87b2-39a4b0b5bfe8",
+   "timestamp": 1742978917305.316
+  },
+  {
+   "origin": "https://collaborator.6gontime.quobislab.com",
+   "pid": 60663,
+   "request_id": 6,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "timestamp": 1742978923311.258,
+   "video": "{width: {ideal: 320}, height: {ideal: 240}, frameRate: {ideal: 30}, deviceId: {ideal: [\"c4f4cce949bfa73ca5237c8cab09fa3d24897117c71b3cb856beb6c3b5cf97f5\"]}}"
+  },
+  {
+   "pid": 60663,
+   "request_id": 6,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "stream_id": "6d8d88cc-1cf4-4274-8c31-5ccda52125fd",
+   "timestamp": 1742978923612.97,
+   "video_track_info": "id:22390198-9057-40b3-a8a7-eebd435cbc9e label:HP 5MP Camera (0408:546a)"
+  },
+  {
+   "audio": "{echoCancellation: {ideal: true}, autoGainControl: {ideal: true}, noiseSuppression: {ideal: true}}",
+   "origin": "https://collaborator.6gontime.quobislab.com",
+   "pid": 60663,
+   "request_id": 7,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "timestamp": 1742978923640.406
+  },
+  {
+   "audio_track_info": "id:e55b7abe-fa8d-4dec-b586-b866fad41472 label:Predeterminado",
+   "pid": 60663,
+   "request_id": 7,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "stream_id": "2fee2a6b-3900-4c43-9f50-bfc8a046953d",
+   "timestamp": 1742978923648.123
+  },
+  {
+   "origin": "https://collaborator.6gontime.quobislab.com",
+   "pid": 60663,
+   "request_id": 8,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "timestamp": 1742979198791.484,
+   "video": "{width: {ideal: 320}, height: {ideal: 240}, frameRate: {ideal: 30}, deviceId: {ideal: [\"c4f4cce949bfa73ca5237c8cab09fa3d24897117c71b3cb856beb6c3b5cf97f5\"]}}"
+  },
+  {
+   "pid": 60663,
+   "request_id": 8,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "stream_id": "1e48c15d-ef53-402a-8384-8d8903ab0016",
+   "timestamp": 1742979199028.824,
+   "video_track_info": "id:8759fe24-dcd9-4cfb-8c7f-e0f32da289bf label:HP 5MP Camera (0408:546a)"
+  },
+  {
+   "audio": "{echoCancellation: {ideal: true}, autoGainControl: {ideal: true}, noiseSuppression: {ideal: true}}",
+   "origin": "https://collaborator.6gontime.quobislab.com",
+   "pid": 60663,
+   "request_id": 9,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "timestamp": 1742979199056.998
+  },
+  {
+   "audio_track_info": "id:b9f1ca23-a4a5-4504-a9d1-3434f1438ff6 label:Predeterminado",
+   "pid": 60663,
+   "request_id": 9,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "stream_id": "f01ba83c-6355-43e5-9b73-371ade42e57a",
+   "timestamp": 1742979199092.604
+  },
+  {
+   "audio": "",
+   "origin": "https://collaborator.6gontime.quobislab.com",
+   "pid": 60663,
+   "request_id": 10,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "timestamp": 1742980409166.609,
+   "video": ""
+  },
+  {
+   "error": "NotAllowedError",
+   "error_message": "Permission dismissed",
+   "pid": 60663,
+   "request_id": 10,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "timestamp": 1742980410981.375
+  },
+  {
+   "audio": "",
+   "origin": "https://collaborator.6gontime.quobislab.com",
+   "pid": 60663,
+   "request_id": 11,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "timestamp": 1742980421105.037,
+   "video": ""
+  },
+  {
+   "audio_track_info": "id:7485288b-384c-4125-94ad-d3dd8410c9b2 label:Predeterminado",
+   "pid": 60663,
+   "request_id": 11,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "stream_id": "90cc592a-dc89-40e8-bd40-f7d823996031",
+   "timestamp": 1742980423816.828,
+   "video_track_info": "id:9e1d43d1-1ef8-4568-b2dd-6e618292f79d label:HP 5MP Camera (0408:546a)"
+  },
+  {
+   "audio": "{deviceId: {ideal: [\"default\"]}}",
+   "origin": "https://collaborator.6gontime.quobislab.com",
+   "pid": 60663,
+   "request_id": 12,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "timestamp": 1742980443913.607
+  },
+  {
+   "audio_track_info": "id:faba3b9d-440c-4805-ab58-229ad1384dea label:Predeterminado",
+   "pid": 60663,
+   "request_id": 12,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "stream_id": "53d178ce-9f2d-4fb0-b743-9231504b05c9",
+   "timestamp": 1742980443950.36
+  },
+  {
+   "audio": "{echoCancellation: {ideal: true}, autoGainControl: {ideal: true}, noiseSuppression: {ideal: true}}",
+   "origin": "https://collaborator.6gontime.quobislab.com",
+   "pid": 60663,
+   "request_id": 13,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "timestamp": 1742980443963.593
+  },
+  {
+   "audio_track_info": "id:4e0517fc-2284-47b2-9dc1-3df0f967aeb2 label:Predeterminado",
+   "pid": 60663,
+   "request_id": 13,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "stream_id": "322d01fb-ef8f-4654-a068-e90a7692d654",
+   "timestamp": 1742980443976.799
+  },
+  {
+   "audio": "{deviceId: {ideal: [\"default\"]}}",
+   "origin": "https://collaborator.6gontime.quobislab.com",
+   "pid": 60663,
+   "request_id": 14,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "timestamp": 1742980642817.247
+  },
+  {
+   "origin": "https://collaborator.6gontime.quobislab.com",
+   "pid": 60663,
+   "request_id": 15,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "timestamp": 1742980642817.473,
+   "video": "{width: {ideal: 1920}, height: {ideal: 1080}, frameRate: {ideal: 30}, deviceId: {ideal: [\"c4f4cce949bfa73ca5237c8cab09fa3d24897117c71b3cb856beb6c3b5cf97f5\"]}}"
+  },
+  {
+   "audio_track_info": "id:d07263a3-037f-493c-aff5-666ff29ee0d8 label:Predeterminado",
+   "pid": 60663,
+   "request_id": 14,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "stream_id": "41306fac-6b25-40ac-93cf-c753f860890b",
+   "timestamp": 1742980642864.738
+  },
+  {
+   "audio": "{echoCancellation: {ideal: true}, autoGainControl: {ideal: true}, noiseSuppression: {ideal: true}}",
+   "origin": "https://collaborator.6gontime.quobislab.com",
+   "pid": 60663,
+   "request_id": 16,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "timestamp": 1742980642869.963
+  },
+  {
+   "audio_track_info": "id:152ade92-48fb-4cb3-b8a6-e6ff46765470 label:Predeterminado",
+   "pid": 60663,
+   "request_id": 16,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "stream_id": "140117be-002d-46f9-b0d2-d14dc5329097",
+   "timestamp": 1742980642948.004
+  },
+  {
+   "pid": 60663,
+   "request_id": 15,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "stream_id": "99aeaa19-4472-4cac-9b01-9c6424308d6d",
+   "timestamp": 1742980643112.971,
+   "video_track_info": "id:a556c6f8-13db-4099-a5f6-bfb5fec24c32 label:HP 5MP Camera (0408:546a)"
+  },
+  {
+   "audio": "{deviceId: {ideal: [\"default\"]}}",
+   "origin": "https://collaborator.6gontime.quobislab.com",
+   "pid": 60663,
+   "request_id": 17,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "timestamp": 1742981174267.982
+  },
+  {
+   "origin": "https://collaborator.6gontime.quobislab.com",
+   "pid": 60663,
+   "request_id": 18,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "timestamp": 1742981174268.039,
+   "video": "{width: {ideal: 320}, height: {ideal: 240}, frameRate: {ideal: 30}, deviceId: {ideal: [\"c4f4cce949bfa73ca5237c8cab09fa3d24897117c71b3cb856beb6c3b5cf97f5\"]}}"
+  },
+  {
+   "audio_track_info": "id:4d1dcc80-18e4-47e9-9ad4-17d8b6766344 label:Predeterminado",
+   "pid": 60663,
+   "request_id": 17,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "stream_id": "732cb7ea-e57e-4430-9c5c-d435f0d35259",
+   "timestamp": 1742981174304.734
+  },
+  {
+   "audio": "{echoCancellation: {ideal: true}, autoGainControl: {ideal: true}, noiseSuppression: {ideal: true}}",
+   "origin": "https://collaborator.6gontime.quobislab.com",
+   "pid": 60663,
+   "request_id": 19,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "timestamp": 1742981174311.446
+  },
+  {
+   "audio_track_info": "id:35f5c387-b397-431b-8c7c-f1cccb459b80 label:Predeterminado",
+   "pid": 60663,
+   "request_id": 19,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "stream_id": "21ddfec2-5f25-4e92-8ee6-a38de7268c32",
+   "timestamp": 1742981174406.427
+  },
+  {
+   "pid": 60663,
+   "request_id": 18,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "stream_id": "8f1c5f2f-f861-46c6-be7c-71b754ff8a1b",
+   "timestamp": 1742981174568.62,
+   "video_track_info": "id:bb3382a4-5e37-45f2-85b0-4b3cda514e17 label:HP 5MP Camera (0408:546a)"
+  },
+  {
+   "audio": "{deviceId: {ideal: [\"default\"]}}",
+   "origin": "https://collaborator.6gontime.quobislab.com",
+   "pid": 60663,
+   "request_id": 20,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "timestamp": 1742982431476.491
+  },
+  {
+   "audio_track_info": "id:34704a76-ead5-4081-a0dc-10074a6c4995 label:Predeterminado",
+   "pid": 60663,
+   "request_id": 20,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "stream_id": "4213d8d4-d10f-4617-9132-5edad0a8db36",
+   "timestamp": 1742982431711.7
+  },
+  {
+   "audio": "{echoCancellation: {ideal: true}, autoGainControl: {ideal: true}, noiseSuppression: {ideal: true}}",
+   "origin": "https://collaborator.6gontime.quobislab.com",
+   "pid": 60663,
+   "request_id": 21,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "timestamp": 1742982431746.09
+  },
+  {
+   "audio_track_info": "id:6265853f-decf-4a6a-8c50-c355c64bc9fb label:Predeterminado",
+   "pid": 60663,
+   "request_id": 21,
+   "request_type": "getUserMedia",
+   "rid": 42,
+   "stream_id": "0473db19-9a9d-42d2-8161-88ddf7fc7c7b",
+   "timestamp": 1742982431848.005
+  }
+ ],
+ "PeerConnections": {
+  "42-15": {
+   "pid": 60663,
+   "rtcConfiguration": "{ iceServers: [stun:stun.l.google.com:19302], iceTransportPolicy: all, bundlePolicy: balanced, rtcpMuxPolicy: require, iceCandidatePoolSize: 0 }",
+   "stats": {
+    "AP-kind": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "media-playout",
+     "values": "[\"audio\",\"audio\",\"audio\",\"audio\",\"audio\"]"
+    },
+    "AP-synthesizedSamplesDuration": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "media-playout",
+     "values": "[0.02,0.13,0.2,0.2,0.2]"
+    },
+    "AP-synthesizedSamplesEvents": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "media-playout",
+     "values": "[2,13,20,20,20]"
+    },
+    "AP-totalSamplesDuration": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "media-playout",
+     "values": "[21.76,80.91,137.14,137.88,138.84]"
+    },
+    "AP-totalPlayoutDelay": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "media-playout",
+     "values": "[92247.456546,208402.186797,370114.280487,376134.644466,378535.474926]"
+    },
+    "AP-totalSamplesCount": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "media-playout",
+     "values": "[959616,3568131,6047874,6080508,6122844]"
+    },
+    "AP-timestamp": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "media-playout",
+     "values": "[1742982454592.452,1742982514666.957,1742982572517.501,1742982573290.12,1742982574251.969]"
+    },
+    "CF19:C1:D8:FA:88:9F:0F:54:63:8E:9F:C7:00:10:42:AC:E2:B4:5C:4C:C1:3F:CC:DB:4D:45:8B:AB:9B:5C:C6:50-fingerprint": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "certificate",
+     "values": "[\"19:C1:D8:FA:88:9F:0F:54:63:8E:9F:C7:00:10:42:AC:E2:B4:5C:4C:C1:3F:CC:DB:4D:45:8B:AB:9B:5C:C6:50\",\"19:C1:D8:FA:88:9F:0F:54:63:8E:9F:C7:00:10:42:AC:E2:B4:5C:4C:C1:3F:CC:DB:4D:45:8B:AB:9B:5C:C6:50\",\"19:C1:D8:FA:88:9F:0F:54:63:8E:9F:C7:00:10:42:AC:E2:B4:5C:4C:C1:3F:CC:DB:4D:45:8B:AB:9B:5C:C6:50\",\"19:C1:D8:FA:88:9F:0F:54:63:8E:9F:C7:00:10:42:AC:E2:B4:5C:4C:C1:3F:CC:DB:4D:45:8B:AB:9B:5C:C6:50\",\"19:C1:D8:FA:88:9F:0F:54:63:8E:9F:C7:00:10:42:AC:E2:B4:5C:4C:C1:3F:CC:DB:4D:45:8B:AB:9B:5C:C6:50\"]"
+    },
+    "CF19:C1:D8:FA:88:9F:0F:54:63:8E:9F:C7:00:10:42:AC:E2:B4:5C:4C:C1:3F:CC:DB:4D:45:8B:AB:9B:5C:C6:50-fingerprintAlgorithm": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "certificate",
+     "values": "[\"sha-256\",\"sha-256\",\"sha-256\",\"sha-256\",\"sha-256\"]"
+    },
+    "CF19:C1:D8:FA:88:9F:0F:54:63:8E:9F:C7:00:10:42:AC:E2:B4:5C:4C:C1:3F:CC:DB:4D:45:8B:AB:9B:5C:C6:50-base64Certificate": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "certificate",
+     "values": "[\"MIIBFDCBvKADAgECAggcdFfbnJKnnDAKBggqhkjOPQQDAjARMQ8wDQYDVQQDDAZXZWJSVEMwHhcNMjUwMzI1MDk0NzExWhcNMjUwNDI1MDk0NzExWjARMQ8wDQYDVQQDDAZXZWJSVEMwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASlBIvQZoTSugdLswmSJjyhERVDovt446GRwUho7Ob3ALohOeKR3zFcIk3YfA8g4FV1pkQNyVneNcihicqwOhy1MAoGCCqGSM49BAMCA0cAMEQCIGkTEgr6vt1zwCY4plr51fndap7o8sQQDT7NBDh/ChuIAiAMgpHfJ3TeYFh0lRArLvVRkjgwpVTBtFJbVwIaoQEHoA==\",\"MIIBFDCBvKADAgECAggcdFfbnJKnnDAKBggqhkjOPQQDAjARMQ8wDQYDVQQDDAZXZWJSVEMwHhcNMjUwMzI1MDk0NzExWhcNMjUwNDI1MDk0NzExWjARMQ8wDQYDVQQDDAZXZWJSVEMwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASlBIvQZoTSugdLswmSJjyhERVDovt446GRwUho7Ob3ALohOeKR3zFcIk3YfA8g4FV1pkQNyVneNcihicqwOhy1MAoGCCqGSM49BAMCA0cAMEQCIGkTEgr6vt1zwCY4plr51fndap7o8sQQDT7NBDh/ChuIAiAMgpHfJ3TeYFh0lRArLvVRkjgwpVTBtFJbVwIaoQEHoA==\",\"MIIBFDCBvKADAgECAggcdFfbnJKnnDAKBggqhkjOPQQDAjARMQ8wDQYDVQQDDAZXZWJSVEMwHhcNMjUwMzI1MDk0NzExWhcNMjUwNDI1MDk0NzExWjARMQ8wDQYDVQQDDAZXZWJSVEMwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASlBIvQZoTSugdLswmSJjyhERVDovt446GRwUho7Ob3ALohOeKR3zFcIk3YfA8g4FV1pkQNyVneNcihicqwOhy1MAoGCCqGSM49BAMCA0cAMEQCIGkTEgr6vt1zwCY4plr51fndap7o8sQQDT7NBDh/ChuIAiAMgpHfJ3TeYFh0lRArLvVRkjgwpVTBtFJbVwIaoQEHoA==\",\"MIIBFDCBvKADAgECAggcdFfbnJKnnDAKBggqhkjOPQQDAjARMQ8wDQYDVQQDDAZXZWJSVEMwHhcNMjUwMzI1MDk0NzExWhcNMjUwNDI1MDk0NzExWjARMQ8wDQYDVQQDDAZXZWJSVEMwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASlBIvQZoTSugdLswmSJjyhERVDovt446GRwUho7Ob3ALohOeKR3zFcIk3YfA8g4FV1pkQNyVneNcihicqwOhy1MAoGCCqGSM49BAMCA0cAMEQCIGkTEgr6vt1zwCY4plr51fndap7o8sQQDT7NBDh/ChuIAiAMgpHfJ3TeYFh0lRArLvVRkjgwpVTBtFJbVwIaoQEHoA==\",\"MIIBFDCBvKADAgECAggcdFfbnJKnnDAKBggqhkjOPQQDAjARMQ8wDQYDVQQDDAZXZWJSVEMwHhcNMjUwMzI1MDk0NzExWhcNMjUwNDI1MDk0NzExWjARMQ8wDQYDVQQDDAZXZWJSVEMwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASlBIvQZoTSugdLswmSJjyhERVDovt446GRwUho7Ob3ALohOeKR3zFcIk3YfA8g4FV1pkQNyVneNcihicqwOhy1MAoGCCqGSM49BAMCA0cAMEQCIGkTEgr6vt1zwCY4plr51fndap7o8sQQDT7NBDh/ChuIAiAMgpHfJ3TeYFh0lRArLvVRkjgwpVTBtFJbVwIaoQEHoA==\"]"
+    },
+    "CF19:C1:D8:FA:88:9F:0F:54:63:8E:9F:C7:00:10:42:AC:E2:B4:5C:4C:C1:3F:CC:DB:4D:45:8B:AB:9B:5C:C6:50-timestamp": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "certificate",
+     "values": "[1742982454592.452,1742982514666.957,1742982572517.501,1742982573290.12,1742982574251.969]"
+    },
+    "CF89:C3:05:E8:9E:4A:BA:4D:F6:F3:E4:26:55:CC:CB:B6:ED:0F:2C:C1:8D:86:BD:54:E9:D7:4D:40:B1:09:32:28-fingerprint": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "certificate",
+     "values": "[\"89:C3:05:E8:9E:4A:BA:4D:F6:F3:E4:26:55:CC:CB:B6:ED:0F:2C:C1:8D:86:BD:54:E9:D7:4D:40:B1:09:32:28\",\"89:C3:05:E8:9E:4A:BA:4D:F6:F3:E4:26:55:CC:CB:B6:ED:0F:2C:C1:8D:86:BD:54:E9:D7:4D:40:B1:09:32:28\",\"89:C3:05:E8:9E:4A:BA:4D:F6:F3:E4:26:55:CC:CB:B6:ED:0F:2C:C1:8D:86:BD:54:E9:D7:4D:40:B1:09:32:28\",\"89:C3:05:E8:9E:4A:BA:4D:F6:F3:E4:26:55:CC:CB:B6:ED:0F:2C:C1:8D:86:BD:54:E9:D7:4D:40:B1:09:32:28\",\"89:C3:05:E8:9E:4A:BA:4D:F6:F3:E4:26:55:CC:CB:B6:ED:0F:2C:C1:8D:86:BD:54:E9:D7:4D:40:B1:09:32:28\"]"
+    },
+    "CF89:C3:05:E8:9E:4A:BA:4D:F6:F3:E4:26:55:CC:CB:B6:ED:0F:2C:C1:8D:86:BD:54:E9:D7:4D:40:B1:09:32:28-fingerprintAlgorithm": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "certificate",
+     "values": "[\"sha-256\",\"sha-256\",\"sha-256\",\"sha-256\",\"sha-256\"]"
+    },
+    "CF89:C3:05:E8:9E:4A:BA:4D:F6:F3:E4:26:55:CC:CB:B6:ED:0F:2C:C1:8D:86:BD:54:E9:D7:4D:40:B1:09:32:28-base64Certificate": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "certificate",
+     "values": "[\"MIIBMDCB1qADAgECAgQG7WGsMAoGCCqGSM49BAMCMCAxDjAMBgNVBAoMBUphbnVzMQ4wDAYDVQQDDAVKYW51czAeFw0yNDAyMjYwOTQzNDdaFw0yNjAyMjUwOTQzNDdaMCAxDjAMBgNVBAoMBUphbnVzMQ4wDAYDVQQDDAVKYW51czBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABCDE1tAtPYBO/pk3BeZIFZxHJ0GZ7hp+BCQJAgfD7NcCkI4ftIipBfeqxJHMYInWRD9iEM3E4j2a7i0tBDeZRvMwCgYIKoZIzj0EAwIDSQAwRgIhAJ4JDWo2tbNUQ0jKrNIt+7qD/4oxC5Rpj6/QjrZV7HFeAiEAkiJJ+SUijWT+9eKQ+Myyn4y24Au/pMoohvuTOW47vkk=\",\"MIIBMDCB1qADAgECAgQG7WGsMAoGCCqGSM49BAMCMCAxDjAMBgNVBAoMBUphbnVzMQ4wDAYDVQQDDAVKYW51czAeFw0yNDAyMjYwOTQzNDdaFw0yNjAyMjUwOTQzNDdaMCAxDjAMBgNVBAoMBUphbnVzMQ4wDAYDVQQDDAVKYW51czBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABCDE1tAtPYBO/pk3BeZIFZxHJ0GZ7hp+BCQJAgfD7NcCkI4ftIipBfeqxJHMYInWRD9iEM3E4j2a7i0tBDeZRvMwCgYIKoZIzj0EAwIDSQAwRgIhAJ4JDWo2tbNUQ0jKrNIt+7qD/4oxC5Rpj6/QjrZV7HFeAiEAkiJJ+SUijWT+9eKQ+Myyn4y24Au/pMoohvuTOW47vkk=\",\"MIIBMDCB1qADAgECAgQG7WGsMAoGCCqGSM49BAMCMCAxDjAMBgNVBAoMBUphbnVzMQ4wDAYDVQQDDAVKYW51czAeFw0yNDAyMjYwOTQzNDdaFw0yNjAyMjUwOTQzNDdaMCAxDjAMBgNVBAoMBUphbnVzMQ4wDAYDVQQDDAVKYW51czBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABCDE1tAtPYBO/pk3BeZIFZxHJ0GZ7hp+BCQJAgfD7NcCkI4ftIipBfeqxJHMYInWRD9iEM3E4j2a7i0tBDeZRvMwCgYIKoZIzj0EAwIDSQAwRgIhAJ4JDWo2tbNUQ0jKrNIt+7qD/4oxC5Rpj6/QjrZV7HFeAiEAkiJJ+SUijWT+9eKQ+Myyn4y24Au/pMoohvuTOW47vkk=\",\"MIIBMDCB1qADAgECAgQG7WGsMAoGCCqGSM49BAMCMCAxDjAMBgNVBAoMBUphbnVzMQ4wDAYDVQQDDAVKYW51czAeFw0yNDAyMjYwOTQzNDdaFw0yNjAyMjUwOTQzNDdaMCAxDjAMBgNVBAoMBUphbnVzMQ4wDAYDVQQDDAVKYW51czBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABCDE1tAtPYBO/pk3BeZIFZxHJ0GZ7hp+BCQJAgfD7NcCkI4ftIipBfeqxJHMYInWRD9iEM3E4j2a7i0tBDeZRvMwCgYIKoZIzj0EAwIDSQAwRgIhAJ4JDWo2tbNUQ0jKrNIt+7qD/4oxC5Rpj6/QjrZV7HFeAiEAkiJJ+SUijWT+9eKQ+Myyn4y24Au/pMoohvuTOW47vkk=\",\"MIIBMDCB1qADAgECAgQG7WGsMAoGCCqGSM49BAMCMCAxDjAMBgNVBAoMBUphbnVzMQ4wDAYDVQQDDAVKYW51czAeFw0yNDAyMjYwOTQzNDdaFw0yNjAyMjUwOTQzNDdaMCAxDjAMBgNVBAoMBUphbnVzMQ4wDAYDVQQDDAVKYW51czBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABCDE1tAtPYBO/pk3BeZIFZxHJ0GZ7hp+BCQJAgfD7NcCkI4ftIipBfeqxJHMYInWRD9iEM3E4j2a7i0tBDeZRvMwCgYIKoZIzj0EAwIDSQAwRgIhAJ4JDWo2tbNUQ0jKrNIt+7qD/4oxC5Rpj6/QjrZV7HFeAiEAkiJJ+SUijWT+9eKQ+Myyn4y24Au/pMoohvuTOW47vkk=\"]"
+    },
+    "CF89:C3:05:E8:9E:4A:BA:4D:F6:F3:E4:26:55:CC:CB:B6:ED:0F:2C:C1:8D:86:BD:54:E9:D7:4D:40:B1:09:32:28-timestamp": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "certificate",
+     "values": "[1742982454592.452,1742982514666.957,1742982572517.501,1742982573290.12,1742982574251.969]"
+    },
+    "CIT01_111_minptime=10;useinbandfec=1-transportId": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "codec",
+     "values": "[\"T01\",\"T01\",\"T01\",\"T01\",\"T01\"]"
+    },
+    "CIT01_111_minptime=10;useinbandfec=1-payloadType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "codec",
+     "values": "[111,111,111,111,111]"
+    },
+    "CIT01_111_minptime=10;useinbandfec=1-mimeType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "codec",
+     "values": "[\"audio/opus\",\"audio/opus\",\"audio/opus\",\"audio/opus\",\"audio/opus\"]"
+    },
+    "CIT01_111_minptime=10;useinbandfec=1-clockRate": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "codec",
+     "values": "[48000,48000,48000,48000,48000]"
+    },
+    "CIT01_111_minptime=10;useinbandfec=1-channels": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "codec",
+     "values": "[2,2,2,2,2]"
+    },
+    "CIT01_111_minptime=10;useinbandfec=1-sdpFmtpLine": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "codec",
+     "values": "[\"minptime=10;useinbandfec=1\",\"minptime=10;useinbandfec=1\",\"minptime=10;useinbandfec=1\",\"minptime=10;useinbandfec=1\",\"minptime=10;useinbandfec=1\"]"
+    },
+    "CIT01_111_minptime=10;useinbandfec=1-timestamp": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "codec",
+     "values": "[1742982454592.452,1742982514666.957,1742982572517.501,1742982573290.12,1742982574251.969]"
+    },
+    "COT01_111-transportId": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "codec",
+     "values": "[\"T01\",\"T01\",\"T01\",\"T01\",\"T01\"]"
+    },
+    "COT01_111-payloadType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "codec",
+     "values": "[111,111,111,111,111]"
+    },
+    "COT01_111-mimeType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "codec",
+     "values": "[\"audio/opus\",\"audio/opus\",\"audio/opus\",\"audio/opus\",\"audio/opus\"]"
+    },
+    "COT01_111-clockRate": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "codec",
+     "values": "[48000,48000,48000,48000,48000]"
+    },
+    "COT01_111-channels": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "codec",
+     "values": "[2,2,2,2,2]"
+    },
+    "COT01_111-timestamp": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "codec",
+     "values": "[1742982454592.452,1742982514666.957,1742982572517.501,1742982573290.12,1742982574251.969]"
+    },
+    "CPWFLnBDo8_YkTB/35x-transportId": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[\"T01\",\"T01\",\"T01\",\"T01\",\"T01\"]"
+    },
+    "CPWFLnBDo8_YkTB/35x-localCandidateId": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[\"IWFLnBDo8\",\"IWFLnBDo8\",\"IWFLnBDo8\",\"IWFLnBDo8\",\"IWFLnBDo8\"]"
+    },
+    "CPWFLnBDo8_YkTB/35x-remoteCandidateId": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[\"IYkTB/35x\",\"IYkTB/35x\",\"IYkTB/35x\",\"IYkTB/35x\",\"IYkTB/35x\"]"
+    },
+    "CPWFLnBDo8_YkTB/35x-state": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[\"succeeded\",\"succeeded\",\"succeeded\",\"succeeded\",\"succeeded\"]"
+    },
+    "CPWFLnBDo8_YkTB/35x-priority": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[7961553800857125000,7961553800857125000,7961553800857125000,7961553800857125000,7961553800857125000]"
+    },
+    "CPWFLnBDo8_YkTB/35x-nominated": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[true,true,true,true,true]"
+    },
+    "CPWFLnBDo8_YkTB/35x-writable": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[true,true,true,true,true]"
+    },
+    "CPWFLnBDo8_YkTB/35x-packetsSent": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[1132,4149,7054,7091,7140]"
+    },
+    "CPWFLnBDo8_YkTB/35x-[packetsSent/s]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[0,50.22097116689796,50.21560407774282,47.889047707214715,50.943548636971045]"
+    },
+    "CPWFLnBDo8_YkTB/35x-packetsReceived": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[1164,4260,7252,7293,7343]"
+    },
+    "CPWFLnBDo8_YkTB/35x-[packetsReceived/s]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[0,51.5360048832337,51.71947931174062,53.06624205394063,51.98321289486841]"
+    },
+    "CPWFLnBDo8_YkTB/35x-bytesSent": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[112766,413281,705174,708637,713774]"
+    },
+    "CPWFLnBDo8_YkTB/35x-[bytesSent_in_bits/s]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[0,40018.97288755808,40365.11757952381,35857.24804542369,42726.042342550245]"
+    },
+    "CPWFLnBDo8_YkTB/35x-bytesReceived": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[144752,516003,886085,890755,897221]"
+    },
+    "CPWFLnBDo8_YkTB/35x-[bytesReceived_in_bits/s]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[0,49438.74250363151,51177.669365367896,48354.995198420045,53779.752732515066]"
+    },
+    "CPWFLnBDo8_YkTB/35x-totalRoundTripTime": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[0.162,0.346,0.6,0.619,0.619]"
+    },
+    "CPWFLnBDo8_YkTB/35x-[totalRoundTripTime/responsesReceived]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[0,0.007999999999999998,0.012095238095238095,0.019000000000000017,0]"
+    },
+    "CPWFLnBDo8_YkTB/35x-currentRoundTripTime": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[0.005,0.006,0.009,0.019,0.019]"
+    },
+    "CPWFLnBDo8_YkTB/35x-availableOutgoingBitrate": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[1560572,159272033,1000000000,1000000000,1000000000]"
+    },
+    "CPWFLnBDo8_YkTB/35x-requestsReceived": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[1,1,1,1,1]"
+    },
+    "CPWFLnBDo8_YkTB/35x-requestsSent": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[12,35,56,57,57]"
+    },
+    "CPWFLnBDo8_YkTB/35x-responsesReceived": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[12,35,56,57,57]"
+    },
+    "CPWFLnBDo8_YkTB/35x-responsesSent": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[1,1,1,1,1]"
+    },
+    "CPWFLnBDo8_YkTB/35x-consentRequestsSent": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[11,34,55,56,56]"
+    },
+    "CPWFLnBDo8_YkTB/35x-packetsDiscardedOnSend": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[0,0,0,0,0]"
+    },
+    "CPWFLnBDo8_YkTB/35x-bytesDiscardedOnSend": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[0,0,0,0,0]"
+    },
+    "CPWFLnBDo8_YkTB/35x-lastPacketReceivedTimestamp": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[1742982454593,1742982514649,1742982572512,1742982573284,1742982574247]"
+    },
+    "CPWFLnBDo8_YkTB/35x-[lastPacketReceivedTimestamp]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[\"26/3/2025, 10:47:34\",\"26/3/2025, 10:48:34\",\"26/3/2025, 10:49:32\",\"26/3/2025, 10:49:33\",\"26/3/2025, 10:49:34\"]"
+    },
+    "CPWFLnBDo8_YkTB/35x-lastPacketSentTimestamp": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[1742982454594,1742982514656,1742982572503,1742982573292,1742982574227]"
+    },
+    "CPWFLnBDo8_YkTB/35x-[lastPacketSentTimestamp]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[\"26/3/2025, 10:47:34\",\"26/3/2025, 10:48:34\",\"26/3/2025, 10:49:32\",\"26/3/2025, 10:49:33\",\"26/3/2025, 10:49:34\"]"
+    },
+    "CPWFLnBDo8_YkTB/35x-timestamp": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "candidate-pair",
+     "values": "[1742982454592.452,1742982514666.957,1742982572517.501,1742982573290.12,1742982574251.969]"
+    },
+    "I195+SMBS-transportId": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"T01\",\"T01\",\"T01\",\"T01\",\"T01\"]"
+    },
+    "I195+SMBS-isRemote": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[false,false,false,false,false]"
+    },
+    "I195+SMBS-networkType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"ethernet\",\"ethernet\",\"ethernet\",\"ethernet\",\"ethernet\"]"
+    },
+    "I195+SMBS-ip": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"10.0.8.14\",\"10.0.8.14\",\"10.0.8.14\",\"10.0.8.14\",\"10.0.8.14\"]"
+    },
+    "I195+SMBS-address": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"10.0.8.14\",\"10.0.8.14\",\"10.0.8.14\",\"10.0.8.14\",\"10.0.8.14\"]"
+    },
+    "I195+SMBS-port": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[9,9,9,9,9]"
+    },
+    "I195+SMBS-protocol": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"tcp\",\"tcp\",\"tcp\",\"tcp\",\"tcp\"]"
+    },
+    "I195+SMBS-candidateType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"host\",\"host\",\"host\",\"host\",\"host\"]"
+    },
+    "I195+SMBS-priority": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[1518214911,1518214911,1518214911,1518214911,1518214911]"
+    },
+    "I195+SMBS-foundation": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[2311105950,2311105950,2311105950,2311105950,2311105950]"
+    },
+    "I195+SMBS-usernameFragment": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"jTm2\",\"jTm2\",\"jTm2\",\"jTm2\",\"jTm2\"]"
+    },
+    "I195+SMBS-tcpType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"active\",\"active\",\"active\",\"active\",\"active\"]"
+    },
+    "I195+SMBS-vpn": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[false,false,false,false,false]"
+    },
+    "I195+SMBS-networkAdapterType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"ethernet\",\"ethernet\",\"ethernet\",\"ethernet\",\"ethernet\"]"
+    },
+    "I195+SMBS-timestamp": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[1742982454592.452,1742982514666.957,1742982572517.501,1742982573290.12,1742982574251.969]"
+    },
+    "IDEiLBvUA-transportId": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"T01\",\"T01\",\"T01\",\"T01\",\"T01\"]"
+    },
+    "IDEiLBvUA-isRemote": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[false,false,false,false,false]"
+    },
+    "IDEiLBvUA-networkType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"unknown\",\"unknown\",\"unknown\",\"unknown\",\"unknown\"]"
+    },
+    "IDEiLBvUA-ip": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"10.45.0.20\",\"10.45.0.20\",\"10.45.0.20\",\"10.45.0.20\",\"10.45.0.20\"]"
+    },
+    "IDEiLBvUA-address": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"10.45.0.20\",\"10.45.0.20\",\"10.45.0.20\",\"10.45.0.20\",\"10.45.0.20\"]"
+    },
+    "IDEiLBvUA-port": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[35872,35872,35872,35872,35872]"
+    },
+    "IDEiLBvUA-protocol": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"udp\",\"udp\",\"udp\",\"udp\",\"udp\"]"
+    },
+    "IDEiLBvUA-candidateType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"host\",\"host\",\"host\",\"host\",\"host\"]"
+    },
+    "IDEiLBvUA-priority": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[2122260223,2122260223,2122260223,2122260223,2122260223]"
+    },
+    "IDEiLBvUA-foundation": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[875510476,875510476,875510476,875510476,875510476]"
+    },
+    "IDEiLBvUA-usernameFragment": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"jTm2\",\"jTm2\",\"jTm2\",\"jTm2\",\"jTm2\"]"
+    },
+    "IDEiLBvUA-vpn": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[false,false,false,false,false]"
+    },
+    "IDEiLBvUA-networkAdapterType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"unknown\",\"unknown\",\"unknown\",\"unknown\",\"unknown\"]"
+    },
+    "IDEiLBvUA-timestamp": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[1742982454592.452,1742982514666.957,1742982572517.501,1742982573290.12,1742982574251.969]"
+    },
+    "IQVgMqehy-transportId": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"T01\",\"T01\",\"T01\",\"T01\",\"T01\"]"
+    },
+    "IQVgMqehy-isRemote": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[false,false,false,false,false]"
+    },
+    "IQVgMqehy-networkType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"ethernet\",\"ethernet\",\"ethernet\",\"ethernet\",\"ethernet\"]"
+    },
+    "IQVgMqehy-ip": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"192.168.255.18\",\"192.168.255.18\",\"192.168.255.18\",\"192.168.255.18\",\"192.168.255.18\"]"
+    },
+    "IQVgMqehy-address": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"192.168.255.18\",\"192.168.255.18\",\"192.168.255.18\",\"192.168.255.18\",\"192.168.255.18\"]"
+    },
+    "IQVgMqehy-port": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[9,9,9,9,9]"
+    },
+    "IQVgMqehy-protocol": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"tcp\",\"tcp\",\"tcp\",\"tcp\",\"tcp\"]"
+    },
+    "IQVgMqehy-candidateType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"host\",\"host\",\"host\",\"host\",\"host\"]"
+    },
+    "IQVgMqehy-priority": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[1518149375,1518149375,1518149375,1518149375,1518149375]"
+    },
+    "IQVgMqehy-foundation": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[879821322,879821322,879821322,879821322,879821322]"
+    },
+    "IQVgMqehy-usernameFragment": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"jTm2\",\"jTm2\",\"jTm2\",\"jTm2\",\"jTm2\"]"
+    },
+    "IQVgMqehy-tcpType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"active\",\"active\",\"active\",\"active\",\"active\"]"
+    },
+    "IQVgMqehy-vpn": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[false,false,false,false,false]"
+    },
+    "IQVgMqehy-networkAdapterType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"ethernet\",\"ethernet\",\"ethernet\",\"ethernet\",\"ethernet\"]"
+    },
+    "IQVgMqehy-timestamp": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[1742982454592.452,1742982514666.957,1742982572517.501,1742982573290.12,1742982574251.969]"
+    },
+    "IT01A2605403780-ssrc": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[2605403780,2605403780,2605403780,2605403780,2605403780]"
+    },
+    "IT01A2605403780-kind": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[\"audio\",\"audio\",\"audio\",\"audio\",\"audio\"]"
+    },
+    "IT01A2605403780-transportId": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[\"T01\",\"T01\",\"T01\",\"T01\",\"T01\"]"
+    },
+    "IT01A2605403780-codecId": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[\"CIT01_111_minptime=10;useinbandfec=1\",\"CIT01_111_minptime=10;useinbandfec=1\",\"CIT01_111_minptime=10;useinbandfec=1\",\"CIT01_111_minptime=10;useinbandfec=1\",\"CIT01_111_minptime=10;useinbandfec=1\"]"
+    },
+    "IT01A2605403780-[codec]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[\"opus (111, minptime=10;useinbandfec=1)\",\"opus (111, minptime=10;useinbandfec=1)\",\"opus (111, minptime=10;useinbandfec=1)\",\"opus (111, minptime=10;useinbandfec=1)\",\"opus (111, minptime=10;useinbandfec=1)\"]"
+    },
+    "IT01A2605403780-jitter": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[0.003,0.005,0.009,0.006,0.004]"
+    },
+    "IT01A2605403780-packetsLost": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[6,29,45,45,45]"
+    },
+    "IT01A2605403780-playoutId": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[\"AP\",\"AP\",\"AP\",\"AP\",\"AP\"]"
+    },
+    "IT01A2605403780-trackIdentifier": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[\"dd0dc531-e187-4f39-96fe-4b3b1e7bab55\",\"dd0dc531-e187-4f39-96fe-4b3b1e7bab55\",\"dd0dc531-e187-4f39-96fe-4b3b1e7bab55\",\"dd0dc531-e187-4f39-96fe-4b3b1e7bab55\",\"dd0dc531-e187-4f39-96fe-4b3b1e7bab55\"]"
+    },
+    "IT01A2605403780-mid": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0,0,0,0]"
+    },
+    "IT01A2605403780-remoteId": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[\"ROA2605403780\",\"ROA2605403780\",\"ROA2605403780\",\"ROA2605403780\",\"ROA2605403780\"]"
+    },
+    "IT01A2605403780-packetsReceived": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[1117,4096,6972,7011,7059]"
+    },
+    "IT01A2605403780-[packetsReceived/s]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,49.58842330334406,49.71431233307688,50.47764488057767,49.90388437907367]"
+    },
+    "IT01A2605403780-packetsDiscarded": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[2,3,9,9,9]"
+    },
+    "IT01A2605403780-[packetsDiscarded/s]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0.01664599640931321,0.103715533379159,0,0]"
+    },
+    "IT01A2605403780-fecPacketsReceived": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0,0,0,0]"
+    },
+    "IT01A2605403780-[fecPacketsReceived/s]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0,0,0,0]"
+    },
+    "IT01A2605403780-fecPacketsDiscarded": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0,0,0,0]"
+    },
+    "IT01A2605403780-[fecPacketsDiscarded/s]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0,0,0,0]"
+    },
+    "IT01A2605403780-bytesReceived": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[117074,416676,717454,721162,726468]"
+    },
+    "IT01A2605403780-[bytesReceived_in_bits/s]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,39897.390529784454,41593.800931622245,38394.07327531939,44131.668419227484]"
+    },
+    "IT01A2605403780-headerBytesReceived": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[13404,49152,83664,84132,84708]"
+    },
+    "IT01A2605403780-[headerBytesReceived_in_bits/s]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,4760.48863712103,4772.5739839753805,4845.853908535456,4790.772900391073]"
+    },
+    "IT01A2605403780-lastPacketReceivedTimestamp": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[1742982454573.155,1742982514648.309,1742982572511.699,1742982573283.1,1742982574246.516]"
+    },
+    "IT01A2605403780-[lastPacketReceivedTimestamp]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[\"26/3/2025, 10:47:34\",\"26/3/2025, 10:48:34\",\"26/3/2025, 10:49:32\",\"26/3/2025, 10:49:33\",\"26/3/2025, 10:49:34\"]"
+    },
+    "IT01A2605403780-jitterBufferDelay": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[398832,836400,2113401.6,2128704,2148844.8]"
+    },
+    "IT01A2605403780-[jitterBufferDelay/jitterBufferEmittedCount_in_ms]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,153.46801346801348,464.2966841186737,419.4736842105238,428.1632653061185]"
+    },
+    "IT01A2605403780-jitterBufferTargetDelay": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[87552,354201.6,699436.8,704544,711129.6]"
+    },
+    "IT01A2605403780-[jitterBufferTargetDelay/jitterBufferEmittedCount_in_ms]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,93.52188552188552,125.52181500872602,139.99999999999875,139.99999999999952]"
+    },
+    "IT01A2605403780-jitterBufferMinimumDelay": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[87552,354201.6,699436.8,704544,711129.6]"
+    },
+    "IT01A2605403780-[jitterBufferMinimumDelay/jitterBufferEmittedCount_in_ms]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,93.52188552188552,125.52181500872602,139.99999999999875,139.99999999999952]"
+    },
+    "IT01A2605403780-jitterBufferEmittedCount": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[1062720,3913920,6664320,6700800,6747840]"
+    },
+    "IT01A2605403780-totalSamplesReceived": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[1036320,3875520,6574560,6610080,6656160]"
+    },
+    "IT01A2605403780-[totalSamplesReceived/s]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,47261.313005322074,46655.395535280884,45973.48579892612,47907.729003910725]"
+    },
+    "IT01A2605403780-concealedSamples": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[2150,11492,17246,17246,17246]"
+    },
+    "IT01A2605403780-[concealedSamples/s]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,155.50689845580402,99.46319651061349,0,0]"
+    },
+    "IT01A2605403780-[concealedSamples/totalSamplesReceived]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0.003290363482671175,0.002131869109016539,0,0]"
+    },
+    "IT01A2605403780-silentConcealedSamples": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0,0,0,0]"
+    },
+    "IT01A2605403780-[silentConcealedSamples/s]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0,0,0,0]"
+    },
+    "IT01A2605403780-concealmentEvents": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[9,32,60,60,60]"
+    },
+    "IT01A2605403780-insertedSamplesForDeceleration": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[2849,2849,2849,2849,2849]"
+    },
+    "IT01A2605403780-[insertedSamplesForDeceleration/s]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0,0,0,0]"
+    },
+    "IT01A2605403780-removedSamplesForAcceleration": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[31156,51453,108335,109055,109895]"
+    },
+    "IT01A2605403780-[removedSamplesForAcceleration/s]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,337.86378911983024,983.257828278887,931.8949824106647,873.3179766337893]"
+    },
+    "IT01A2605403780-audioLevel": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[0.05972472304452651,0.3828852198858608,0.016144291512802514,0.0036927396465956603,0.21924497207556384]"
+    },
+    "IT01A2605403780-totalAudioEnergy": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[2.0190374295114943,4.176901873521814,7.755364600763959,7.757981408789609,7.837596595597562]"
+    },
+    "IT01A2605403780-[Audio_Level_in_RMS]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0.19100058835198924,0.2522691868124098,0.05946618418641948,0.28798001017146907]"
+    },
+    "IT01A2605403780-totalSamplesDuration": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[21.760000000000602,80.91000000000449,137.14000000002025,137.88000000001958,138.8400000000187]"
+    },
+    "IT01A2605403780-totalProcessingDelay": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[412949.28192,849223.60032,2154206.83776,2170065.64608,2189995.76352]"
+    },
+    "IT01A2605403780-[totalProcessingDelay/jitterBufferEmittedCount_in_ms]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,153.01428114478114,474.4703452006981,434.72610526315344,423.68446938775884]"
+    },
+    "IT01A2605403780-jitterBufferFlushes": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[1,1,1,1,1]"
+    },
+    "IT01A2605403780-delayedPacketOutageSamples": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[1920,2377,2377,2377,2377]"
+    },
+    "IT01A2605403780-relativePacketArrivalDelay": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[14.653,63.639,114.046,114.556,116.136]"
+    },
+    "IT01A2605403780-interruptionCount": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0,0,0,0]"
+    },
+    "IT01A2605403780-totalInterruptionDuration": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0,0,0,0]"
+    },
+    "IT01A2605403780-timestamp": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "inbound-rtp",
+     "values": "[1742982454592.452,1742982514666.957,1742982572517.501,1742982573290.12,1742982574251.969]"
+    },
+    "IWCQnu5dn-transportId": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"T01\",\"T01\",\"T01\",\"T01\",\"T01\"]"
+    },
+    "IWCQnu5dn-isRemote": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[false,false,false,false,false]"
+    },
+    "IWCQnu5dn-networkType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"unknown\",\"unknown\",\"unknown\",\"unknown\",\"unknown\"]"
+    },
+    "IWCQnu5dn-ip": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"193.144.32.110\",\"193.144.32.110\",\"193.144.32.110\",\"193.144.32.110\",\"193.144.32.110\"]"
+    },
+    "IWCQnu5dn-address": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"193.144.32.110\",\"193.144.32.110\",\"193.144.32.110\",\"193.144.32.110\",\"193.144.32.110\"]"
+    },
+    "IWCQnu5dn-port": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[15590,15590,15590,15590,15590]"
+    },
+    "IWCQnu5dn-protocol": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"udp\",\"udp\",\"udp\",\"udp\",\"udp\"]"
+    },
+    "IWCQnu5dn-candidateType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"srflx\",\"srflx\",\"srflx\",\"srflx\",\"srflx\"]"
+    },
+    "IWCQnu5dn-priority": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[1686052607,1686052607,1686052607,1686052607,1686052607]"
+    },
+    "IWCQnu5dn-url": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"stun:stun.l.google.com:19302\",\"stun:stun.l.google.com:19302\",\"stun:stun.l.google.com:19302\",\"stun:stun.l.google.com:19302\",\"stun:stun.l.google.com:19302\"]"
+    },
+    "IWCQnu5dn-foundation": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[290911526,290911526,290911526,290911526,290911526]"
+    },
+    "IWCQnu5dn-relatedAddress": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"10.45.0.20\",\"10.45.0.20\",\"10.45.0.20\",\"10.45.0.20\",\"10.45.0.20\"]"
+    },
+    "IWCQnu5dn-relatedPort": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[35872,35872,35872,35872,35872]"
+    },
+    "IWCQnu5dn-usernameFragment": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"jTm2\",\"jTm2\",\"jTm2\",\"jTm2\",\"jTm2\"]"
+    },
+    "IWCQnu5dn-vpn": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[false,false,false,false,false]"
+    },
+    "IWCQnu5dn-networkAdapterType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"unknown\",\"unknown\",\"unknown\",\"unknown\",\"unknown\"]"
+    },
+    "IWCQnu5dn-timestamp": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[1742982454592.452,1742982514666.957,1742982572517.501,1742982573290.12,1742982574251.969]"
+    },
+    "IWFLnBDo8-transportId": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"T01\",\"T01\",\"T01\",\"T01\",\"T01\"]"
+    },
+    "IWFLnBDo8-isRemote": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[false,false,false,false,false]"
+    },
+    "IWFLnBDo8-networkType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"ethernet\",\"ethernet\",\"ethernet\",\"ethernet\",\"ethernet\"]"
+    },
+    "IWFLnBDo8-ip": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"10.106.0.3\",\"10.106.0.3\",\"10.106.0.3\",\"10.106.0.3\",\"10.106.0.3\"]"
+    },
+    "IWFLnBDo8-address": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"10.106.0.3\",\"10.106.0.3\",\"10.106.0.3\",\"10.106.0.3\",\"10.106.0.3\"]"
+    },
+    "IWFLnBDo8-port": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[60162,60162,60162,60162,60162]"
+    },
+    "IWFLnBDo8-protocol": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"udp\",\"udp\",\"udp\",\"udp\",\"udp\"]"
+    },
+    "IWFLnBDo8-candidateType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"prflx\",\"prflx\",\"prflx\",\"prflx\",\"prflx\"]"
+    },
+    "IWFLnBDo8-priority": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[1853693695,1853693695,1853693695,1853693695,1853693695]"
+    },
+    "IWFLnBDo8-foundation": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[1680358196,1680358196,1680358196,1680358196,1680358196]"
+    },
+    "IWFLnBDo8-relatedAddress": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"192.168.255.18\",\"192.168.255.18\",\"192.168.255.18\",\"192.168.255.18\",\"192.168.255.18\"]"
+    },
+    "IWFLnBDo8-relatedPort": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[60162,60162,60162,60162,60162]"
+    },
+    "IWFLnBDo8-usernameFragment": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"jTm2\",\"jTm2\",\"jTm2\",\"jTm2\",\"jTm2\"]"
+    },
+    "IWFLnBDo8-vpn": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[false,false,false,false,false]"
+    },
+    "IWFLnBDo8-networkAdapterType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"ethernet\",\"ethernet\",\"ethernet\",\"ethernet\",\"ethernet\"]"
+    },
+    "IWFLnBDo8-timestamp": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[1742982454592.452,1742982514666.957,1742982572517.501,1742982573290.12,1742982574251.969]"
+    },
+    "IYkTB/35x-transportId": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "remote-candidate",
+     "values": "[\"T01\",\"T01\",\"T01\",\"T01\",\"T01\"]"
+    },
+    "IYkTB/35x-isRemote": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "remote-candidate",
+     "values": "[true,true,true,true,true]"
+    },
+    "IYkTB/35x-ip": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "remote-candidate",
+     "values": "[\"10.106.0.5\",\"10.106.0.5\",\"10.106.0.5\",\"10.106.0.5\",\"10.106.0.5\"]"
+    },
+    "IYkTB/35x-address": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "remote-candidate",
+     "values": "[\"10.106.0.5\",\"10.106.0.5\",\"10.106.0.5\",\"10.106.0.5\",\"10.106.0.5\"]"
+    },
+    "IYkTB/35x-port": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "remote-candidate",
+     "values": "[20309,20309,20309,20309,20309]"
+    },
+    "IYkTB/35x-protocol": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "remote-candidate",
+     "values": "[\"udp\",\"udp\",\"udp\",\"udp\",\"udp\"]"
+    },
+    "IYkTB/35x-candidateType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "remote-candidate",
+     "values": "[\"host\",\"host\",\"host\",\"host\",\"host\"]"
+    },
+    "IYkTB/35x-priority": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "remote-candidate",
+     "values": "[2015363327,2015363327,2015363327,2015363327,2015363327]"
+    },
+    "IYkTB/35x-foundation": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "remote-candidate",
+     "values": "[1,1,1,1,1]"
+    },
+    "IYkTB/35x-usernameFragment": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "remote-candidate",
+     "values": "[\"ytZE\",\"ytZE\",\"ytZE\",\"ytZE\",\"ytZE\"]"
+    },
+    "IYkTB/35x-timestamp": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "remote-candidate",
+     "values": "[1742982454592.452,1742982514666.957,1742982572517.501,1742982573290.12,1742982574251.969]"
+    },
+    "Ibbzvrj1o-transportId": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"T01\",\"T01\",\"T01\",\"T01\",\"T01\"]"
+    },
+    "Ibbzvrj1o-isRemote": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[false,false,false,false,false]"
+    },
+    "Ibbzvrj1o-networkType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"wifi\",\"wifi\",\"wifi\",\"wifi\",\"wifi\"]"
+    },
+    "Ibbzvrj1o-ip": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"10.5.4.67\",\"10.5.4.67\",\"10.5.4.67\",\"10.5.4.67\",\"10.5.4.67\"]"
+    },
+    "Ibbzvrj1o-address": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"10.5.4.67\",\"10.5.4.67\",\"10.5.4.67\",\"10.5.4.67\",\"10.5.4.67\"]"
+    },
+    "Ibbzvrj1o-port": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[9,9,9,9,9]"
+    },
+    "Ibbzvrj1o-protocol": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"tcp\",\"tcp\",\"tcp\",\"tcp\",\"tcp\"]"
+    },
+    "Ibbzvrj1o-candidateType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"host\",\"host\",\"host\",\"host\",\"host\"]"
+    },
+    "Ibbzvrj1o-priority": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[1518083839,1518083839,1518083839,1518083839,1518083839]"
+    },
+    "Ibbzvrj1o-foundation": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[2284125732,2284125732,2284125732,2284125732,2284125732]"
+    },
+    "Ibbzvrj1o-usernameFragment": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"jTm2\",\"jTm2\",\"jTm2\",\"jTm2\",\"jTm2\"]"
+    },
+    "Ibbzvrj1o-tcpType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"active\",\"active\",\"active\",\"active\",\"active\"]"
+    },
+    "Ibbzvrj1o-vpn": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[false,false,false,false,false]"
+    },
+    "Ibbzvrj1o-networkAdapterType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"wifi\",\"wifi\",\"wifi\",\"wifi\",\"wifi\"]"
+    },
+    "Ibbzvrj1o-timestamp": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[1742982454592.452,1742982514666.957,1742982572517.501,1742982573290.12,1742982574251.969]"
+    },
+    "ItwnKI9rY-transportId": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"T01\",\"T01\",\"T01\",\"T01\",\"T01\"]"
+    },
+    "ItwnKI9rY-isRemote": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[false,false,false,false,false]"
+    },
+    "ItwnKI9rY-networkType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"unknown\",\"unknown\",\"unknown\",\"unknown\",\"unknown\"]"
+    },
+    "ItwnKI9rY-ip": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"10.45.0.20\",\"10.45.0.20\",\"10.45.0.20\",\"10.45.0.20\",\"10.45.0.20\"]"
+    },
+    "ItwnKI9rY-address": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"10.45.0.20\",\"10.45.0.20\",\"10.45.0.20\",\"10.45.0.20\",\"10.45.0.20\"]"
+    },
+    "ItwnKI9rY-port": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[9,9,9,9,9]"
+    },
+    "ItwnKI9rY-protocol": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"tcp\",\"tcp\",\"tcp\",\"tcp\",\"tcp\"]"
+    },
+    "ItwnKI9rY-candidateType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"host\",\"host\",\"host\",\"host\",\"host\"]"
+    },
+    "ItwnKI9rY-priority": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[1518280447,1518280447,1518280447,1518280447,1518280447]"
+    },
+    "ItwnKI9rY-foundation": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[3397774936,3397774936,3397774936,3397774936,3397774936]"
+    },
+    "ItwnKI9rY-usernameFragment": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"jTm2\",\"jTm2\",\"jTm2\",\"jTm2\",\"jTm2\"]"
+    },
+    "ItwnKI9rY-tcpType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"active\",\"active\",\"active\",\"active\",\"active\"]"
+    },
+    "ItwnKI9rY-vpn": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[false,false,false,false,false]"
+    },
+    "ItwnKI9rY-networkAdapterType": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[\"unknown\",\"unknown\",\"unknown\",\"unknown\",\"unknown\"]"
+    },
+    "ItwnKI9rY-timestamp": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "local-candidate",
+     "values": "[1742982454592.452,1742982514666.957,1742982572517.501,1742982573290.12,1742982574251.969]"
+    },
+    "OT01A251537184-ssrc": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "outbound-rtp",
+     "values": "[251537184,251537184,251537184,251537184,251537184]"
+    },
+    "OT01A251537184-kind": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "outbound-rtp",
+     "values": "[\"audio\",\"audio\",\"audio\",\"audio\",\"audio\"]"
+    },
+    "OT01A251537184-transportId": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "outbound-rtp",
+     "values": "[\"T01\",\"T01\",\"T01\",\"T01\",\"T01\"]"
+    },
+    "OT01A251537184-codecId": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "outbound-rtp",
+     "values": "[\"COT01_111\",\"COT01_111\",\"COT01_111\",\"COT01_111\",\"COT01_111\"]"
+    },
+    "OT01A251537184-[codec]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "outbound-rtp",
+     "values": "[\"opus (111)\",\"opus (111)\",\"opus (111)\",\"opus (111)\",\"opus (111)\"]"
+    },
+    "OT01A251537184-packetsSent": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "outbound-rtp",
+     "values": "[1120,4116,6996,7033,7082]"
+    },
+    "OT01A251537184-[packetsSent/s]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "outbound-rtp",
+     "values": "[0,49.87140524230238,49.78345602199632,47.889047707214715,50.943548636971045]"
+    },
+    "OT01A251537184-bytesSent": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "outbound-rtp",
+     "values": "[86739,320151,547246,549895,553954]"
+    },
+    "OT01A251537184-[bytesSent_in_bits/s]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "outbound-rtp",
+     "values": "[0,31083.002511124923,31404.37207032015,27428.7756489539,33759.97778244334]"
+    },
+    "OT01A251537184-mediaSourceId": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "outbound-rtp",
+     "values": "[\"SA10\",\"SA10\",\"SA10\",\"SA10\",\"SA10\"]"
+    },
+    "OT01A251537184-remoteId": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "outbound-rtp",
+     "values": "[\"RIA251537184\",\"RIA251537184\",\"RIA251537184\",\"RIA251537184\",\"RIA251537184\"]"
+    },
+    "OT01A251537184-mid": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "outbound-rtp",
+     "values": "[0,0,0,0,0]"
+    },
+    "OT01A251537184-retransmittedPacketsSent": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "outbound-rtp",
+     "values": "[0,0,0,0,0]"
+    },
+    "OT01A251537184-[retransmittedPacketsSent/s]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "outbound-rtp",
+     "values": "[0,0,0,0,0]"
+    },
+    "OT01A251537184-headerBytesSent": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "outbound-rtp",
+     "values": "[13440,49392,83952,84396,84984]"
+    },
+    "OT01A251537184-[headerBytesSent_in_bits/s]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "outbound-rtp",
+     "values": "[0,4787.654903261028,4779.211778111647,4597.348579892612,4890.58066914922]"
+    },
+    "OT01A251537184-retransmittedBytesSent": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "outbound-rtp",
+     "values": "[0,0,0,0,0]"
+    },
+    "OT01A251537184-[retransmittedBytesSent_in_bits/s]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "outbound-rtp",
+     "values": "[0,0,0,0,0]"
+    },
+    "OT01A251537184-targetBitrate": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "outbound-rtp",
+     "values": "[32000,32000,32000,32000,32000]"
+    },
+    "OT01A251537184-totalPacketSendDelay": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "outbound-rtp",
+     "values": "[0,0,0,0,0]"
+    },
+    "OT01A251537184-[totalPacketSendDelay/packetsSent_in_ms]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "outbound-rtp",
+     "values": "[0,0,0,0,0]"
+    },
+    "OT01A251537184-nackCount": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "outbound-rtp",
+     "values": "[0,0,0,0,0]"
+    },
+    "OT01A251537184-active": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "outbound-rtp",
+     "values": "[true,true,true,true,true]"
+    },
+    "OT01A251537184-timestamp": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "outbound-rtp",
+     "values": "[1742982454592.452,1742982514666.957,1742982572517.501,1742982573290.12,1742982574251.969]"
+    },
+    "P-dataChannelsOpened": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "peer-connection",
+     "values": "[0,0,0,0,0]"
+    },
+    "P-dataChannelsClosed": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "peer-connection",
+     "values": "[0,0,0,0,0]"
+    },
+    "P-timestamp": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "peer-connection",
+     "values": "[1742982454592.452,1742982514666.957,1742982572517.501,1742982573290.12,1742982574251.969]"
+    },
+    "RIA251537184-ssrc": {
+     "startTime": "2025-03-26T09:47:33.890Z",
+     "endTime": "2025-03-26T09:49:33.886Z",
+     "statsType": "remote-inbound-rtp",
+     "values": "[251537184,251537184,251537184,251537184,251537184]"
+    },
+    "RIA251537184-kind": {
+     "startTime": "2025-03-26T09:47:33.890Z",
+     "endTime": "2025-03-26T09:49:33.886Z",
+     "statsType": "remote-inbound-rtp",
+     "values": "[\"audio\",\"audio\",\"audio\",\"audio\",\"audio\"]"
+    },
+    "RIA251537184-transportId": {
+     "startTime": "2025-03-26T09:47:33.890Z",
+     "endTime": "2025-03-26T09:49:33.886Z",
+     "statsType": "remote-inbound-rtp",
+     "values": "[\"T01\",\"T01\",\"T01\",\"T01\",\"T01\"]"
+    },
+    "RIA251537184-codecId": {
+     "startTime": "2025-03-26T09:47:33.890Z",
+     "endTime": "2025-03-26T09:49:33.886Z",
+     "statsType": "remote-inbound-rtp",
+     "values": "[\"COT01_111\",\"COT01_111\",\"COT01_111\",\"COT01_111\",\"COT01_111\"]"
+    },
+    "RIA251537184-jitter": {
+     "startTime": "2025-03-26T09:47:33.890Z",
+     "endTime": "2025-03-26T09:49:33.886Z",
+     "statsType": "remote-inbound-rtp",
+     "values": "[0.00075,0.003166,0.007124999999999999,0.01877,0.007062]"
+    },
+    "RIA251537184-packetsLost": {
+     "startTime": "2025-03-26T09:47:33.890Z",
+     "endTime": "2025-03-26T09:49:33.886Z",
+     "statsType": "remote-inbound-rtp",
+     "values": "[0,0,3,3,3]"
+    },
+    "RIA251537184-localId": {
+     "startTime": "2025-03-26T09:47:33.890Z",
+     "endTime": "2025-03-26T09:49:33.886Z",
+     "statsType": "remote-inbound-rtp",
+     "values": "[\"OT01A251537184\",\"OT01A251537184\",\"OT01A251537184\",\"OT01A251537184\",\"OT01A251537184\"]"
+    },
+    "RIA251537184-roundTripTime": {
+     "startTime": "2025-03-26T09:47:33.890Z",
+     "endTime": "2025-03-26T09:49:33.886Z",
+     "statsType": "remote-inbound-rtp",
+     "values": "[0.004898,0.006592,0.016937,0.008728,0.008301]"
+    },
+    "RIA251537184-fractionLost": {
+     "startTime": "2025-03-26T09:47:33.890Z",
+     "endTime": "2025-03-26T09:49:33.886Z",
+     "statsType": "remote-inbound-rtp",
+     "values": "[0,0,0,0,0]"
+    },
+    "RIA251537184-totalRoundTripTime": {
+     "startTime": "2025-03-26T09:47:33.890Z",
+     "endTime": "2025-03-26T09:49:33.886Z",
+     "statsType": "remote-inbound-rtp",
+     "values": "[0.237869,0.7948569999999999,1.4862739999999999,1.495002,1.5033029999999998]"
+    },
+    "RIA251537184-roundTripTimeMeasurements": {
+     "startTime": "2025-03-26T09:47:33.890Z",
+     "endTime": "2025-03-26T09:49:33.886Z",
+     "statsType": "remote-inbound-rtp",
+     "values": "[20,79,137,138,139]"
+    },
+    "RIA251537184-timestamp": {
+     "startTime": "2025-03-26T09:47:33.890Z",
+     "endTime": "2025-03-26T09:49:33.886Z",
+     "statsType": "remote-inbound-rtp",
+     "values": "[1742982453890.745,1742982513888.563,1742982571895.254,1742982572886.924,1742982573886.35]"
+    },
+    "ROA2605403780-ssrc": {
+     "startTime": "2025-03-26T09:47:33.890Z",
+     "endTime": "2025-03-26T09:49:33.886Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[2605403780,2605403780,2605403780,2605403780,2605403780]"
+    },
+    "ROA2605403780-kind": {
+     "startTime": "2025-03-26T09:47:33.890Z",
+     "endTime": "2025-03-26T09:49:33.886Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[\"audio\",\"audio\",\"audio\",\"audio\",\"audio\"]"
+    },
+    "ROA2605403780-transportId": {
+     "startTime": "2025-03-26T09:47:33.890Z",
+     "endTime": "2025-03-26T09:49:33.886Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[\"T01\",\"T01\",\"T01\",\"T01\",\"T01\"]"
+    },
+    "ROA2605403780-codecId": {
+     "startTime": "2025-03-26T09:47:33.890Z",
+     "endTime": "2025-03-26T09:49:33.886Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[\"CIT01_111_minptime=10;useinbandfec=1\",\"CIT01_111_minptime=10;useinbandfec=1\",\"CIT01_111_minptime=10;useinbandfec=1\",\"CIT01_111_minptime=10;useinbandfec=1\",\"CIT01_111_minptime=10;useinbandfec=1\"]"
+    },
+    "ROA2605403780-packetsSent": {
+     "startTime": "2025-03-26T09:47:33.890Z",
+     "endTime": "2025-03-26T09:49:33.886Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[1088,4086,6985,7035,7085]"
+    },
+    "ROA2605403780-bytesSent": {
+     "startTime": "2025-03-26T09:47:33.890Z",
+     "endTime": "2025-03-26T09:49:33.886Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[127479,464655,802876,808443,814412]"
+    },
+    "ROA2605403780-localId": {
+     "startTime": "2025-03-26T09:47:33.890Z",
+     "endTime": "2025-03-26T09:49:33.886Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[\"IT01A2605403780\",\"IT01A2605403780\",\"IT01A2605403780\",\"IT01A2605403780\",\"IT01A2605403780\"]"
+    },
+    "ROA2605403780-remoteTimestamp": {
+     "startTime": "2025-03-26T09:47:33.890Z",
+     "endTime": "2025-03-26T09:49:33.886Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[1742982453846.672,1742982513846.729,1742982571846.912,1742982572846.788,1742982573846.644]"
+    },
+    "ROA2605403780-[remoteTimestamp]": {
+     "startTime": "2025-03-26T09:47:33.890Z",
+     "endTime": "2025-03-26T09:49:33.886Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[\"26/3/2025, 10:47:33\",\"26/3/2025, 10:48:33\",\"26/3/2025, 10:49:31\",\"26/3/2025, 10:49:32\",\"26/3/2025, 10:49:33\"]"
+    },
+    "ROA2605403780-reportsSent": {
+     "startTime": "2025-03-26T09:47:33.890Z",
+     "endTime": "2025-03-26T09:49:33.886Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[22,81,139,140,141]"
+    },
+    "ROA2605403780-roundTripTimeMeasurements": {
+     "startTime": "2025-03-26T09:47:33.890Z",
+     "endTime": "2025-03-26T09:49:33.886Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[0,0,0,0,0]"
+    },
+    "ROA2605403780-totalRoundTripTime": {
+     "startTime": "2025-03-26T09:47:33.890Z",
+     "endTime": "2025-03-26T09:49:33.886Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[0,0,0,0,0]"
+    },
+    "ROA2605403780-timestamp": {
+     "startTime": "2025-03-26T09:47:33.890Z",
+     "endTime": "2025-03-26T09:49:33.886Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[1742982453890.73,1742982513888.538,1742982571895.231,1742982572886.896,1742982573886.327]"
+    },
+    "SA10-trackIdentifier": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "media-source",
+     "values": "[\"34704a76-ead5-4081-a0dc-10074a6c4995\",\"34704a76-ead5-4081-a0dc-10074a6c4995\",\"34704a76-ead5-4081-a0dc-10074a6c4995\",\"34704a76-ead5-4081-a0dc-10074a6c4995\",\"34704a76-ead5-4081-a0dc-10074a6c4995\"]"
+    },
+    "SA10-kind": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "media-source",
+     "values": "[\"audio\",\"audio\",\"audio\",\"audio\",\"audio\"]"
+    },
+    "SA10-audioLevel": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "media-source",
+     "values": "[0.15500350962858975,0.24485000152592548,0.028260139774773402,0.05063020722067934,0.09311197241126744]"
+    },
+    "SA10-totalAudioEnergy": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "media-source",
+     "values": "[1.0488017431388037,2.8037589093205875,7.448198197892793,7.44945450236167,7.546154196947168]"
+    },
+    "SA10-[Audio_Level_in_RMS]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "media-source",
+     "values": "[0,0.1711526393075502,0.283958846556495,0.04120326129964127,0.3125323330110984]"
+    },
+    "SA10-totalSamplesDuration": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "media-source",
+     "values": "[22.750000000000757,82.66000000000538,140.2600000000174,141.00000000001674,141.99000000001584]"
+    },
+    "SA10-echoReturnLoss": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "media-source",
+     "values": "[-30,-30,-29.542431831359863,-29.542431831359863,-29.542431831359863]"
+    },
+    "SA10-echoReturnLossEnhancement": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "media-source",
+     "values": "[0.17551203072071075,0.17551203072071075,0.17551203072071075,0.17551203072071075,0.17551203072071075]"
+    },
+    "SA10-timestamp": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "media-source",
+     "values": "[1742982454592.452,1742982514666.957,1742982572517.501,1742982573290.12,1742982574251.969]"
+    },
+    "T01-bytesSent": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "transport",
+     "values": "[112766,413281,705174,708637,713774]"
+    },
+    "T01-[bytesSent_in_bits/s]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "transport",
+     "values": "[0,40018.97288755808,40365.11757952381,35857.24804542369,42726.042342550245]"
+    },
+    "T01-packetsSent": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "transport",
+     "values": "[1132,4149,7054,7091,7140]"
+    },
+    "T01-[packetsSent/s]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "transport",
+     "values": "[0,50.22097116689796,50.21560407774282,47.889047707214715,50.943548636971045]"
+    },
+    "T01-bytesReceived": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "transport",
+     "values": "[144752,516003,886085,890755,897221]"
+    },
+    "T01-[bytesReceived_in_bits/s]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "transport",
+     "values": "[0,49438.74250363151,51177.669365367896,48354.995198420045,53779.752732515066]"
+    },
+    "T01-packetsReceived": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "transport",
+     "values": "[1164,4260,7252,7293,7343]"
+    },
+    "T01-[packetsReceived/s]": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "transport",
+     "values": "[0,51.5360048832337,51.71947931174062,53.06624205394063,51.98321289486841]"
+    },
+    "T01-dtlsState": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "transport",
+     "values": "[\"connected\",\"connected\",\"connected\",\"connected\",\"connected\"]"
+    },
+    "T01-selectedCandidatePairId": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "transport",
+     "values": "[\"CPWFLnBDo8_YkTB/35x\",\"CPWFLnBDo8_YkTB/35x\",\"CPWFLnBDo8_YkTB/35x\",\"CPWFLnBDo8_YkTB/35x\",\"CPWFLnBDo8_YkTB/35x\"]"
+    },
+    "T01-localCertificateId": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "transport",
+     "values": "[\"CF19:C1:D8:FA:88:9F:0F:54:63:8E:9F:C7:00:10:42:AC:E2:B4:5C:4C:C1:3F:CC:DB:4D:45:8B:AB:9B:5C:C6:50\",\"CF19:C1:D8:FA:88:9F:0F:54:63:8E:9F:C7:00:10:42:AC:E2:B4:5C:4C:C1:3F:CC:DB:4D:45:8B:AB:9B:5C:C6:50\",\"CF19:C1:D8:FA:88:9F:0F:54:63:8E:9F:C7:00:10:42:AC:E2:B4:5C:4C:C1:3F:CC:DB:4D:45:8B:AB:9B:5C:C6:50\",\"CF19:C1:D8:FA:88:9F:0F:54:63:8E:9F:C7:00:10:42:AC:E2:B4:5C:4C:C1:3F:CC:DB:4D:45:8B:AB:9B:5C:C6:50\",\"CF19:C1:D8:FA:88:9F:0F:54:63:8E:9F:C7:00:10:42:AC:E2:B4:5C:4C:C1:3F:CC:DB:4D:45:8B:AB:9B:5C:C6:50\"]"
+    },
+    "T01-remoteCertificateId": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "transport",
+     "values": "[\"CF89:C3:05:E8:9E:4A:BA:4D:F6:F3:E4:26:55:CC:CB:B6:ED:0F:2C:C1:8D:86:BD:54:E9:D7:4D:40:B1:09:32:28\",\"CF89:C3:05:E8:9E:4A:BA:4D:F6:F3:E4:26:55:CC:CB:B6:ED:0F:2C:C1:8D:86:BD:54:E9:D7:4D:40:B1:09:32:28\",\"CF89:C3:05:E8:9E:4A:BA:4D:F6:F3:E4:26:55:CC:CB:B6:ED:0F:2C:C1:8D:86:BD:54:E9:D7:4D:40:B1:09:32:28\",\"CF89:C3:05:E8:9E:4A:BA:4D:F6:F3:E4:26:55:CC:CB:B6:ED:0F:2C:C1:8D:86:BD:54:E9:D7:4D:40:B1:09:32:28\",\"CF89:C3:05:E8:9E:4A:BA:4D:F6:F3:E4:26:55:CC:CB:B6:ED:0F:2C:C1:8D:86:BD:54:E9:D7:4D:40:B1:09:32:28\"]"
+    },
+    "T01-tlsVersion": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "transport",
+     "values": "[\"FEFD\",\"FEFD\",\"FEFD\",\"FEFD\",\"FEFD\"]"
+    },
+    "T01-dtlsCipher": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "transport",
+     "values": "[\"TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256\",\"TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256\",\"TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256\",\"TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256\",\"TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256\"]"
+    },
+    "T01-dtlsRole": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "transport",
+     "values": "[\"server\",\"server\",\"server\",\"server\",\"server\"]"
+    },
+    "T01-srtpCipher": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "transport",
+     "values": "[\"AES_CM_128_HMAC_SHA1_80\",\"AES_CM_128_HMAC_SHA1_80\",\"AES_CM_128_HMAC_SHA1_80\",\"AES_CM_128_HMAC_SHA1_80\",\"AES_CM_128_HMAC_SHA1_80\"]"
+    },
+    "T01-selectedCandidatePairChanges": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "transport",
+     "values": "[1,1,1,1,1]"
+    },
+    "T01-iceRole": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "transport",
+     "values": "[\"controlling\",\"controlling\",\"controlling\",\"controlling\",\"controlling\"]"
+    },
+    "T01-iceLocalUsernameFragment": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "transport",
+     "values": "[\"jTm2\",\"jTm2\",\"jTm2\",\"jTm2\",\"jTm2\"]"
+    },
+    "T01-iceState": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "transport",
+     "values": "[\"connected\",\"connected\",\"connected\",\"connected\",\"connected\"]"
+    },
+    "T01-timestamp": {
+     "startTime": "2025-03-26T09:47:34.592Z",
+     "endTime": "2025-03-26T09:49:34.251Z",
+     "statsType": "transport",
+     "values": "[1742982454592.452,1742982514666.957,1742982572517.501,1742982573290.12,1742982574251.969]"
+    }
+   },
+   "updateLog": [
+    {
+     "time": "26/3/2025, 10:47:11",
+     "type": "transceiverAdded",
+     "value": "Caused by: addTrack\n\ngetTransceivers()[0]:{\n  mid:null,\n  kind:'audio',\n  sender:{\n    track:'34704a76-ead5-4081-a0dc-10074a6c4995',\n    streams:['f0a9e1b2-dafa-4743-93d6-b9d387ce698c'],\n    encodings: [\n      {active: true, },\n    ],\n  },\n  receiver:{\n    track:'dd0dc531-e187-4f39-96fe-4b3b1e7bab55',\n    streams:[],\n  },\n  direction:'sendrecv',\n  currentDirection:null,\n}"
+    },
+    {
+     "time": "26/3/2025, 10:47:11",
+     "type": "createOffer",
+     "value": "options: {offerToReceiveVideo: 0, offerToReceiveAudio: 1, voiceActivityDetection: true, iceRestart: false}"
+    },
+    {
+     "time": "26/3/2025, 10:47:11",
+     "type": "negotiationneeded",
+     "value": ""
+    },
+    {
+     "time": "26/3/2025, 10:47:11",
+     "type": "createOfferOnSuccess",
+     "value": "type: offer, sdp: v=0\r\no=- 9164849873734160398 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=extmap-allow-mixed\r\na=msid-semantic: WMS f0a9e1b2-dafa-4743-93d6-b9d387ce698c\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 63 9 0 8 13 110 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:jTm2\r\na=ice-pwd:6HH9pkvw9P6Domu8383Uuonz\r\na=ice-options:trickle\r\na=fingerprint:sha-256 19:C1:D8:FA:88:9F:0F:54:63:8E:9F:C7:00:10:42:AC:E2:B4:5C:4C:C1:3F:CC:DB:4D:45:8B:AB:9B:5C:C6:50\r\na=setup:actpass\r\na=mid:0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=sendrecv\r\na=msid:f0a9e1b2-dafa-4743-93d6-b9d387ce698c 34704a76-ead5-4081-a0dc-10074a6c4995\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1\r\na=rtpmap:63 red/48000/2\r\na=fmtp:63 111/111\r\na=rtpmap:9 G722/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:13 CN/8000\r\na=rtpmap:110 telephone-event/48000\r\na=rtpmap:126 telephone-event/8000\r\na=ssrc:251537184 cname:w5qAHPYEN3c7t0OA\r\na=ssrc:251537184 msid:f0a9e1b2-dafa-4743-93d6-b9d387ce698c 34704a76-ead5-4081-a0dc-10074a6c4995\r\n"
+    },
+    {
+     "time": "26/3/2025, 10:47:11",
+     "type": "setLocalDescription",
+     "value": "type: offer, sdp: v=0\r\no=- 9164849873734160398 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=extmap-allow-mixed\r\na=msid-semantic: WMS f0a9e1b2-dafa-4743-93d6-b9d387ce698c\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 63 9 0 8 13 110 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:jTm2\r\na=ice-pwd:6HH9pkvw9P6Domu8383Uuonz\r\na=ice-options:trickle\r\na=fingerprint:sha-256 19:C1:D8:FA:88:9F:0F:54:63:8E:9F:C7:00:10:42:AC:E2:B4:5C:4C:C1:3F:CC:DB:4D:45:8B:AB:9B:5C:C6:50\r\na=setup:actpass\r\na=mid:0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=sendrecv\r\na=msid:f0a9e1b2-dafa-4743-93d6-b9d387ce698c 34704a76-ead5-4081-a0dc-10074a6c4995\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1\r\na=rtpmap:63 red/48000/2\r\na=fmtp:63 111/111\r\na=rtpmap:9 G722/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:13 CN/8000\r\na=rtpmap:110 telephone-event/48000\r\na=rtpmap:126 telephone-event/8000\r\na=ssrc:251537184 cname:w5qAHPYEN3c7t0OA\r\na=ssrc:251537184 msid:f0a9e1b2-dafa-4743-93d6-b9d387ce698c 34704a76-ead5-4081-a0dc-10074a6c4995\r\n"
+    },
+    {
+     "time": "26/3/2025, 10:47:11",
+     "type": "setLocalDescriptionOnSuccess",
+     "value": ""
+    },
+    {
+     "time": "26/3/2025, 10:47:11",
+     "type": "signalingstatechange",
+     "value": "have-local-offer"
+    },
+    {
+     "time": "26/3/2025, 10:47:11",
+     "type": "transceiverModified",
+     "value": "Caused by: setLocalDescription\n\ngetTransceivers()[0]:{\n  mid:'0',\n  kind:'audio',\n  sender:{\n    track:'34704a76-ead5-4081-a0dc-10074a6c4995',\n    streams:['f0a9e1b2-dafa-4743-93d6-b9d387ce698c'],\n    encodings: [\n      {active: true, },\n    ],\n  },\n  receiver:{\n    track:'dd0dc531-e187-4f39-96fe-4b3b1e7bab55',\n    streams:[],\n  },\n  direction:'sendrecv',\n  currentDirection:null,\n}"
+    },
+    {
+     "time": "26/3/2025, 10:47:11",
+     "type": "icegatheringstatechange",
+     "value": "gathering"
+    },
+    {
+     "time": "26/3/2025, 10:47:11",
+     "type": "icecandidate",
+     "value": "sdpMid: 0, sdpMLineIndex: 0, candidate: candidate:875510476 1 udp 2122260223 10.45.0.20 35872 typ host generation 0 ufrag jTm2 network-id 4 network-cost 50"
+    },
+    {
+     "time": "26/3/2025, 10:47:11",
+     "type": "icecandidate",
+     "value": "sdpMid: 0, sdpMLineIndex: 0, candidate: candidate:2003466506 1 udp 2122194687 10.0.8.14 34586 typ host generation 0 ufrag jTm2 network-id 1"
+    },
+    {
+     "time": "26/3/2025, 10:47:11",
+     "type": "icecandidate",
+     "value": "sdpMid: 0, sdpMLineIndex: 0, candidate: candidate:3403404958 1 udp 2122129151 192.168.255.18 60162 typ host generation 0 ufrag jTm2 network-id 2"
+    },
+    {
+     "time": "26/3/2025, 10:47:11",
+     "type": "icecandidate",
+     "value": "sdpMid: 0, sdpMLineIndex: 0, candidate: candidate:1989028528 1 udp 2122063615 10.5.4.67 51872 typ host generation 0 ufrag jTm2 network-id 3 network-cost 10"
+    },
+    {
+     "time": "26/3/2025, 10:47:11",
+     "type": "icecandidate",
+     "value": "sdpMid: 0, sdpMLineIndex: 0, candidate: candidate:290911526 1 udp 1686052607 193.144.32.110 15590 typ srflx raddr 10.45.0.20 rport 35872 generation 0 ufrag jTm2 network-id 4 network-cost 50, url: stun:stun.l.google.com:19302"
+    },
+    {
+     "time": "26/3/2025, 10:47:11",
+     "type": "icecandidate",
+     "value": "sdpMid: 0, sdpMLineIndex: 0, candidate: candidate:3397774936 1 tcp 1518280447 10.45.0.20 9 typ host tcptype active generation 0 ufrag jTm2 network-id 4 network-cost 50"
+    },
+    {
+     "time": "26/3/2025, 10:47:11",
+     "type": "icecandidate",
+     "value": "sdpMid: 0, sdpMLineIndex: 0, candidate: candidate:2311105950 1 tcp 1518214911 10.0.8.14 9 typ host tcptype active generation 0 ufrag jTm2 network-id 1"
+    },
+    {
+     "time": "26/3/2025, 10:47:11",
+     "type": "icecandidate",
+     "value": "sdpMid: 0, sdpMLineIndex: 0, candidate: candidate:879821322 1 tcp 1518149375 192.168.255.18 9 typ host tcptype active generation 0 ufrag jTm2 network-id 2"
+    },
+    {
+     "time": "26/3/2025, 10:47:11",
+     "type": "icecandidate",
+     "value": "sdpMid: 0, sdpMLineIndex: 0, candidate: candidate:2284125732 1 tcp 1518083839 10.5.4.67 9 typ host tcptype active generation 0 ufrag jTm2 network-id 3 network-cost 10"
+    },
+    {
+     "time": "26/3/2025, 10:47:11",
+     "type": "setRemoteDescription",
+     "value": "type: answer, sdp: v=0\r\no=- 9164849873734160398 4 IN IP4 10.106.0.5\r\ns=Asterisk\r\nt=0 0\r\na=group:BUNDLE 0\r\na=extmap-allow-mixed\r\na=msid-semantic: WMS janus\r\na=ice-lite\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 110\r\nc=IN IP4 10.106.0.5\r\na=sendrecv\r\na=mid:0\r\na=rtcp-mux\r\na=ice-ufrag:ytZE\r\na=ice-pwd:wAEZMGIZnr3YZQ5pl7Eevc\r\na=ice-options:trickle\r\na=fingerprint:sha-256 89:C3:05:E8:9E:4A:BA:4D:F6:F3:E4:26:55:CC:CB:B6:ED:0F:2C:C1:8D:86:BD:54:E9:D7:4D:40:B1:09:32:28\r\na=setup:active\r\na=rtpmap:111 opus/48000/2\r\na=ptime:20\r\na=maxptime:20\r\na=rtpmap:110 telephone-event/48000\r\na=fmtp:110 0-16\r\na=msid:janus janusa0\r\na=ssrc:2605403780 cname:janus\r\na=ssrc:2605403780 msid:janus janusa0\r\na=ssrc:2605403780 mslabel:janus\r\na=ssrc:2605403780 label:janusa0\r\na=candidate:1 1 udp 2015363327 10.106.0.5 20309 typ host\r\na=end-of-candidates\r\n"
+    },
+    {
+     "time": "26/3/2025, 10:47:11",
+     "type": "iceconnectionstatechange",
+     "value": "checking"
+    },
+    {
+     "time": "26/3/2025, 10:47:11",
+     "type": "setRemoteDescriptionOnSuccess",
+     "value": ""
+    },
+    {
+     "time": "26/3/2025, 10:47:11",
+     "type": "signalingstatechange",
+     "value": "stable"
+    },
+    {
+     "time": "26/3/2025, 10:47:11",
+     "type": "transceiverModified",
+     "value": "Caused by: setRemoteDescription\n\ngetTransceivers()[0]:{\n  mid:'0',\n  kind:'audio',\n  sender:{\n    track:'34704a76-ead5-4081-a0dc-10074a6c4995',\n    streams:['f0a9e1b2-dafa-4743-93d6-b9d387ce698c'],\n    encodings: [\n      {active: true, },\n    ],\n  },\n  receiver:{\n    track:'dd0dc531-e187-4f39-96fe-4b3b1e7bab55',\n    streams:['janus'],\n  },\n  direction:'sendrecv',\n  currentDirection:'sendrecv',\n}"
+    },
+    {
+     "time": "26/3/2025, 10:47:11",
+     "type": "connectionstatechange",
+     "value": "connecting"
+    },
+    {
+     "time": "26/3/2025, 10:47:12",
+     "type": "iceconnectionstatechange",
+     "value": "connected"
+    },
+    {
+     "time": "26/3/2025, 10:47:12",
+     "type": "icegatheringstatechange",
+     "value": "complete"
+    },
+    {
+     "time": "26/3/2025, 10:47:12",
+     "type": "connectionstatechange",
+     "value": "connected"
+    },
+    {
+     "time": "26/3/2025, 10:47:51",
+     "type": "icecandidateerror",
+     "value": "url: stun:stun.l.google.com:19302\naddress: 10.0.8.x\nport: 34586\nhost_candidate: 10.0.8.x:34586\nerror_text: STUN binding request timed out.\nerror_code: 701"
+    },
+    {
+     "time": "26/3/2025, 10:47:51",
+     "type": "icecandidateerror",
+     "value": "url: stun:stun.l.google.com:19302\naddress: 192.168.255.x\nport: 60162\nhost_candidate: 192.168.255.x:60162\nerror_text: STUN binding request timed out.\nerror_code: 701"
+    },
+    {
+     "time": "26/3/2025, 10:47:51",
+     "type": "icecandidateerror",
+     "value": "url: stun:stun.l.google.com:19302\naddress: 10.5.4.x\nport: 51872\nhost_candidate: 10.5.4.x:51872\nerror_text: STUN binding request timed out.\nerror_code: 701"
+    }
+   ],
+   "url": "https://collaborator.6gontime.quobislab.com/"
+  }
+ },
+ "UserAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+}
