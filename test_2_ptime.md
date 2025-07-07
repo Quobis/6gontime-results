@@ -14,6 +14,20 @@ comunicaciones multimedia.
 
 ![test2-lab-diagram](<img/6GONTIME-test_2_ptime.png>)
 
+### Test 2: Ajuste dinámico del ptime
+
+- Estudio del impacto de la variabilidad de ptime en latencia y fiabilidad.
+- Configuración mediante negociación SDP (SIP/WebRTC) usando Quobis Communication Platform.
+- Objetivo: optimizar el ptime en función del contexto de red y el caso de uso xURLLC.
+
+### RAW data
+
+* Se adjunta los datos pruebas en la carpeta [results](results/)
+
 ## Main results
 
-TBC
+- ptime ofrece un trade-off entre latencia y calidad, pero su recorrido está limitado a lo que ya usa la comunidad a día de hoy.
+- El recorrido efectivo de ptime es de 10-20ms ofreciendo el resto de valores resultados poco prácticos.
+
+Ver conclusiones generales en:
+* [Conclusiones principales](tests-results.md)

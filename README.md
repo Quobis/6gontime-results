@@ -53,9 +53,20 @@ En cada documento se almacena una descripción del proceso de testeo y sus
 conclusiones principales. En su carpeta correspondiente, se almacenan los datos
 RAW.
 
+Como resultado del proyecto, se publica aquí un pequeño resumen de las conclusiones principales
+
+* [Conclusiones principales](tests-results.md)
+
+# Información de contacto
+
+https://quobis.com/es/proyectos-de-innovacion/6g-on-time/
+
+- yudani.riobo@quobis.com
+- santiago.troncoso@quobis.com
+
 # Copyright
 
-@ Quobis Networks SLU. 2024. Todos los derechos reservados. La plataforma de
+@ Quobis Networks SLU. 2025. Todos los derechos reservados. La plataforma de
 comunicaciones de Quobis y sus marcas relacionadas, son marcas comerciales de
 Quobis. Todas las otras marcas registradas mencionadas son propiedad de sus
-respectivos fabricantes. El contenido de este documento es confidencial.
+respectivos fabricantes. El contenido de este documento es público.

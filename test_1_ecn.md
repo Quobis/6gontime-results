@@ -17,6 +17,21 @@ real en entornos 5G avanzado.
 
 ![test1-lab-diagram](<img/6GONTIME-test_1_ecn.png>)
 
+### Test 1: Uso de ECN para control de congestión
+
+- Pruebas sobre tráfico multimedia en tiempo real bajo condiciones de congestión.
+- Evaluación del impacto en latencia, pérdida de paquetes, jitter y retransmisiones.
+- Objetivo: comprobar la validez de ECN en entornos xURLLC (ultra baja latencia y alta fiabilidad).
+
+### RAW data
+
+* Se adjunta los datos pruebas en la carpeta [results](results/)
+  
 ## Main results
 
-TBC
+- ECN es la mejor opción para detección temprana, reducción de saturación y reducción de la latencia percibida total.
+- ECN ofrece feedback explícito, frente a las técnicas actuales de codecs adaptativos y cálculos generados por análisis o estudio experimental del entorno (STUN, learning loop)
+- ECN tiene muy poco despliegue en red, lo cual es un problema.
+
+Ver conclusiones generales en:
+* [Conclusiones principales](tests-results.md)
